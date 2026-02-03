@@ -16,19 +16,10 @@ This extension records the hostname when a session is created. When you resume t
 
 ## Installation
 
-### Local Development
-
-```bash
-cd ~/projects/pi-hostname
-npm install
-npm run build
-pi install .
-```
-
 ### Via Git (once published)
 
 ```bash
-pi install git:github.com/yourusername/pi-hostname
+pi install git:github.com/Whamp/pi-hostname
 ```
 
 ## Usage
