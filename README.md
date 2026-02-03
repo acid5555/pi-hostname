@@ -36,23 +36,6 @@ The extension works automatically:
 
 - `/hostname` - Show the hostname where the session was created vs. current machine
 
-## Setup for Cross-Machine Sync
-
-To share sessions across machines:
-
-1. Set a custom sessions directory in your shell config:
-
-   ```bash
-   # ~/.bashrc or ~/.zshrc
-   export PI_CODING_AGENT_DIR="$HOME/Dropbox/pi-agent"
-   # or
-   export PI_CODING_AGENT_DIR="$HOME/Sync/pi-agent"
-   ```
-
-2. Restart your terminal or run `source ~/.bashrc`
-
-3. All sessions will now be stored in the synced folder and available on all machines
-
 ## How It Works
 
 - Uses Pi's `CustomEntry` to store hostname in the session file
